@@ -43,8 +43,16 @@
 
 - 打开Typora的偏好设置
   - 选择图像，按照以下配置：![image-20230928164904151](https://cdn.jsdelivr.net/gh/RuthlessZhang/img/image-20230928164904151.png)
+  
 - 验证图片上传一般出现以下情况：
   - ![img](https://cdn.jsdelivr.net/gh/RuthlessZhang/img/44b8d6159b085639fb3bc7f4e21b7a82.png)
-    - 解决方法：打开PicGo设置，点击设置Server选项，将监听地址改为127.0.0.1，监听端口为36677
+    - 解决方法1：打开PicGo设置，点击设置Server选项，将监听地址改为127.0.0.1，监听端口为36677
+    
   - ![img](https://cdn.jsdelivr.net/gh/RuthlessZhang/img/b0ea78ea12a488fdbf3b75fd08752564.png)
-    - 解决方法：打开PicGo设置，将时间戳重命名打开
+    - 解决方法2：打开PicGo设置，将时间戳重命名打开
+    
+  -  
+  
+    - 解决办法3：打开picGo图床设置，将新建的图床设置为**默认图床**
+  
+      ![image-20231008205538331](https://raw.githubusercontent.com/fograinwater/PicGo-img/master/image-20231008205538331.png)
